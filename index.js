@@ -1,3 +1,6 @@
-const somaUmMaisUm = () => 1+1
+const somaUmMaisUm = () => 1 + 1
 
-console.log(somaUmMaisUm())
+const main = () => {
+    console.log(somaUmMaisUm())
+}
+main()
