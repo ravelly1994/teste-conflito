@@ -1,3 +1,3 @@
-const somaUmMaisUm = () => 1+1
+const soma = (a, b) => a + b
 
-console.log(somaUmMaisUm())
+console.log(soma(1, 1))
